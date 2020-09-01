@@ -1,0 +1,40 @@
+.images {
+  display: flex;
+}
+
+.img1 {
+  flex: 33.33%;
+  padding: 2px;
+}
+
+.img2 {
+  flex: 33.33%;
+  padding: 2px;
+}
+
+.img3 {
+  flex: 33.33%;
+  padding: 2px;
+}
+
+.img4 {
+  position: absolute;
+  bottom: -150px;
+  flex: 45.33%;
+  padding: 2px;
+}
+
+.img5 {
+  position: absolute;
+  bottom: -650px;
+  flex: 33.33%;
+  padding: 2px;
+}
+
+.img6 {
+  position: relative;
+  bottom: -930px;
+  left: -660px;
+  flex: 33.33%;
+  padding: 5px;
+}
