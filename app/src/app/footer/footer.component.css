@@ -1,4 +1,6 @@
 .footer {
+  position: relative;
+  top: 700px;
   margin-left: 80px;
-  font-size: 18px;
+  font-size: 25px;
 }

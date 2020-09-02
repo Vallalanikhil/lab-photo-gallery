@@ -4,37 +4,44 @@
 
 .img1 {
   flex: 33.33%;
-  padding: 2px;
+  padding: 20px;
+  margin-left: 60px;
 }
 
 .img2 {
   flex: 33.33%;
-  padding: 2px;
+  padding: 15px;
+  margin-right: -30px;
+
 }
 
 .img3 {
   flex: 33.33%;
-  padding: 2px;
+  padding: 10px;
+  margin-left: -30px;
 }
 
 .img4 {
   position: absolute;
-  bottom: -150px;
+  margin-left: 60px;
+  bottom: 80px;
   flex: 45.33%;
   padding: 2px;
 }
 
 .img5 {
   position: absolute;
-  bottom: -650px;
+  margin-left: 60px;
+  bottom: -300px;
   flex: 33.33%;
   padding: 2px;
 }
 
 .img6 {
   position: relative;
-  bottom: -930px;
-  left: -660px;
+  margin-right: 10px;
+  bottom: -750px;
+  left: -650px;
   flex: 33.33%;
-  padding: 5px;
+  padding: 12px;
 }
